@@ -1,0 +1,10 @@
+First Name: Lwazi
+Last Name: Mabota
+First Integer: 2500
+Second Integer: 2500
+Sum: 5000
+Product: 6250000
+Input File Name: test_input.txt
+Input File Contents:
+This is a test file content for the Python program.
+
